@@ -1,3 +1,1 @@
-week-1-homework of Armagan Amcalar | JSCC2019 youtube playlist
-
-week-3-homework is done by updating this.week-1-homework
+copy from the prev repo, because I couldn't figure out how to handle the submodule I created for the backend folder while trying to deploy my project w/heroku
